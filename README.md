@@ -8,7 +8,7 @@ Our team achieved a [Silver Medal](https://www.kaggle.com/certification/competit
 
 ## Competition Overview
 
-The goal of this competition is to develop models to assist in the detection and classification of degenerative spine diseases using lumbar spine MRI images. Participants will create models that simulate the radiologist’s diagnostic process for assessing spine conditions. 
+The goal of this competition is to develop models to assist in the detection and classification of degenerative spine diseases using lumbar spine MRI images. Participants created models that simulated the radiologist’s diagnostic process for assessing spine conditions. 
 
 ### Classification of Five Lumbar Spine Degenerative Diseases:
 1. Left Neural Foraminal Narrowing
