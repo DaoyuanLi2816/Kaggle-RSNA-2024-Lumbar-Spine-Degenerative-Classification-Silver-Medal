@@ -207,6 +207,18 @@ Run the notebooks in the following order:
 ## License
 
 This project is released under the terms of the [LICENSE](./LICENSE) file included in this repository.
+## Citation
+
+If you find this solution helpful, please consider linking back to this repository:
+
+```bibtex
+@misc{li_rsna2024_lumbar_spine,
+  author       = {Daoyuan Li},
+  title        = {RSNA 2024 Lumbar Spine Degenerative Classification (Silver Medal Solution)},
+  year         = {2024},
+  howpublished = {https://github.com/DaoyuanLi2816/Kaggle-RSNA-2024-Lumbar-Spine-Degenerative-Classification-Silver-Medal}
+}
+```
 ## Author
 
 Daoyuan Li - [Kaggle Profile](https://www.kaggle.com/distiller)
