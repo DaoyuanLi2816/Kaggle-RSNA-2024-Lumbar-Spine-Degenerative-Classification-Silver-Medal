@@ -173,6 +173,23 @@ Our team achieved a silver medal in the RSNA 2024 Lumbar Spine Degenerative Clas
 - Solution holds potential clinical value for aiding radiologists in diagnostics
 
 
+## Repository Structure
+
+```text
+.
+- code/
+  - gen_data_nfn.ipynb    # Build the YOLO dataset for Neural Foraminal Narrowing (NFN)
+  - gen_data_scs.ipynb    # Build the YOLO dataset for Spinal Canal Stenosis (SCS)
+  - gen_data_ss.ipynb     # Build the YOLO dataset for Subarticular Stenosis (SS)
+  - train_yolo_nfn.ipynb  # Train the NFN YOLOv8 model
+  - train_yolo_scs.ipynb  # Train the SCS YOLOv8 model
+  - train_yolo_ss.ipynb   # Train the SS YOLOv8 model
+  - inference.ipynb       # Run inference and assemble the submission
+- dataset/
+  - 5folds.csv            # 5-fold cross-validation split
+- LICENSE
+- README.md
+```
 ## Author
 
 Daoyuan Li - [Kaggle Profile](https://www.kaggle.com/distiller)
